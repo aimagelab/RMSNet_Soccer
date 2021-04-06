@@ -32,10 +32,12 @@ For our experiments, we extracted frames at 2 fps from the original 25fps full s
           |       |
 
 **Annotations**
+
 Please follow the instructions _[here](https://github.com/SilvioGiancola/SoccerNetv2-DevKit/tree/main/Download)_ to download action spotting annotations.
 We will refer to the directory containing annotations as "annotation_dir".
 
 **Listgame Splits**
+
 Please download "listgame_Test_100.npy", "listgame_Valid_100.npy", and "listgame_Train_300.npy" from _[here](https://github.com/SilvioGiancola/SoccerNet-code/tree/master/data)_ and put them under the "listgame_dir" directory.
 
 ## Training and Testing

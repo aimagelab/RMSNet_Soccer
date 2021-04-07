@@ -57,7 +57,7 @@ Run `python train.py` using the following arguments:
 
 For example, for training on 4 16GB V100 GPUs, use:
 ```
-python train.py --workers 8 -batch-size 24 --lr 0.002 --out_dir "." --frames_path "./frames_dir" --labels_path "./labels_path" --listgame_path "./listgame_path"
+python train.py --workers 8 -batch-size 24 --lr 0.002 --out_dir "." --frames_path "./frames_dir" --labels_path "./annotation_dir" --listgame_path "./listgame_dir"
 ```
 
 **Testing**

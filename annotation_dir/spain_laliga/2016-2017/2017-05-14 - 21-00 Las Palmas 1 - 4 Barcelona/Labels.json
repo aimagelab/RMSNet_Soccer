@@ -1,0 +1,70 @@
+{
+    "UrlLocal": "spain_laliga/2016-2017/2017-05-14 - 21-00 Las Palmas 1 - 4 Barcelona/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 05:41",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 24:28",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 26:48",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 12:30",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 17:29",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 21:42",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 25:51",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 26:59",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 32:21",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 33:32",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 33:45",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 39:18",
+            "label": "substitution-in",
+            "team": "home"
+        }
+    ],
+    "gameAwayTeam": "Barcelona",
+    "gameDate": "14/05/2017 - 21:00",
+    "gameHomeTeam": "Las Palmas",
+    "gameScore": "1 - 4"
+}

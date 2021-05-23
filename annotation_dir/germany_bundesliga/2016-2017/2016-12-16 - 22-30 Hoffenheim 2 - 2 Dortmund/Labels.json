@@ -1,0 +1,95 @@
+{
+    "UrlLocal": "germany_bundesliga/2016-2017/2016-12-16 - 22-30 Hoffenheim 2 - 2 Dortmund/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 02:02",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 08:48",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 10:07",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 19:17",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 26:56",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 29:16",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 38:36",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 40:19",
+            "label": "yr-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 02:48",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 12:01",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 12:38",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 15:14",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 23:29",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 37:04",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 40:02",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 40:02",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 46:42",
+            "label": "substitution-in",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Dortmund",
+    "gameDate": "16/12/2016 - 22:30",
+    "gameHomeTeam": "Hoffenheim",
+    "gameScore": "2 - 2"
+}

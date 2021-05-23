@@ -1,0 +1,60 @@
+{
+    "UrlLocal": "england_epl/2015-2016/2016-04-23 - 17-00 Bournemouth 1 - 4 Chelsea/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 04:55",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 33:46",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 35:18",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 17:13",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 17:29",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 25:31",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 32:21",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 37:48",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 43:36",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 45:18",
+            "label": "soccer-ball",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Chelsea",
+    "gameDate": "23/04/2016 - 17:00",
+    "gameHomeTeam": "Bournemouth",
+    "gameScore": "1 - 4"
+}

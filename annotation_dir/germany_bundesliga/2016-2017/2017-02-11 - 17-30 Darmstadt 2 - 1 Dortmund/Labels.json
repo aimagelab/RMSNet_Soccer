@@ -1,0 +1,75 @@
+{
+    "UrlLocal": "germany_bundesliga/2016-2017/2017-02-11 - 17-30 Darmstadt 2 - 1 Dortmund/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 20:30",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 43:19",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 12:50",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 16:53",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 16:55",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 21:15",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 27:09",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 29:41",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 31:40",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 31:02",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 33:45",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 36:31",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 39:21",
+            "label": "substitution-in",
+            "team": "home"
+        }
+    ],
+    "gameAwayTeam": "Dortmund",
+    "gameDate": "11/02/2017 - 17:30",
+    "gameHomeTeam": "Darmstadt",
+    "gameScore": "2 - 1"
+}

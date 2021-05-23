@@ -1,0 +1,50 @@
+{
+    "UrlLocal": "europe_uefa-champions-league/2016-2017/2016-11-23 - 22-45 Napoli 0 - 0 Dyn. Kiev/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 18:36",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 14:37",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 20:31",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 21:18",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 29:20",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 32:42",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 35:39",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 40:41",
+            "label": "substitution-in",
+            "team": "home"
+        }
+    ],
+    "gameAwayTeam": "Dyn. Kiev",
+    "gameDate": "23/11/2016 - 22:45",
+    "gameHomeTeam": "Napoli",
+    "gameScore": "0 - 0"
+}

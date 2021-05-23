@@ -1,0 +1,95 @@
+{
+    "UrlLocal": "spain_laliga/2016-2017/2016-08-20 - 19-15 Barcelona 6 - 2 Betis/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 05:46",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 20:20",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 35:07",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 36:43",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 41:42",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 44:20",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 09:10",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 10:34",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 11:58",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 13:25",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 16:46",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 22:13",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 24:22",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 30:44",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 31:17",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 36:08",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 38:12",
+            "label": "soccer-ball",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Betis",
+    "gameDate": "20/08/2016 - 19:15",
+    "gameHomeTeam": "Barcelona",
+    "gameScore": "6 - 2"
+}

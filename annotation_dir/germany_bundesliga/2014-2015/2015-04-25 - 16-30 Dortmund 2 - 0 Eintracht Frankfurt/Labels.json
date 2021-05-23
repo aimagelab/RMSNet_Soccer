@@ -1,0 +1,80 @@
+{
+    "UrlLocal": "germany_bundesliga/2014-2015/2015-04-25 - 16-30 Dortmund 2 - 0 Eintracht Frankfurt/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 23:56",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 24:57",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 26:10",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 31:08",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 41:45",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 41:46",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 00:00",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 00:41",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 12:43",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 21:58",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 27:32",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 32:49",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 33:08",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 41:23",
+            "label": "substitution-in",
+            "team": "home"
+        }
+    ],
+    "gameAwayTeam": "Eintracht Frankfurt",
+    "gameDate": "25/04/2015 - 16:30",
+    "gameHomeTeam": "Dortmund",
+    "gameScore": "2 - 0"
+}

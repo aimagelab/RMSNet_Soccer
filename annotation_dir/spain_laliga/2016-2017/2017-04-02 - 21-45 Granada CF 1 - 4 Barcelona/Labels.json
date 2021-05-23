@@ -1,0 +1,95 @@
+{
+    "UrlLocal": "spain_laliga/2016-2017/2017-04-02 - 21-45 Granada CF 1 - 4 Barcelona/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 16:47",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 27:49",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 43:51",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 00:00",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 04:36",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 10:00",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 13:50",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 14:55",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 18:02",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 21:41",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 31:53",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 32:30",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 33:08",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 36:31",
+            "label": "yr-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 37:27",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 41:16",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 45:21",
+            "label": "soccer-ball",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Barcelona",
+    "gameDate": "02/04/2017 - 21:45",
+    "gameHomeTeam": "Granada CF",
+    "gameScore": "1 - 4"
+}

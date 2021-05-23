@@ -1,0 +1,65 @@
+{
+    "UrlLocal": "spain_laliga/2015-2016/2015-09-19 - 17-00 Real Madrid 1 - 0 Granada CF/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 34:31",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 42:38",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 09:16",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 15:00",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 16:26",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 21:53",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 24:48",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 31:22",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 31:55",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 34:18",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 39:56",
+            "label": "substitution-in",
+            "team": "home"
+        }
+    ],
+    "gameAwayTeam": "Granada CF",
+    "gameDate": "19/09/2015 - 17:00",
+    "gameHomeTeam": "Real Madrid",
+    "gameScore": "1 - 0"
+}

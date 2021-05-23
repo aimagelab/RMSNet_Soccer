@@ -1,0 +1,65 @@
+{
+    "UrlLocal": "germany_bundesliga/2016-2017/2017-05-13 - 16-30 FC Augsburg 1 - 1 Dortmund/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 12:46",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 22:04",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 27:56",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 31:33",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 13:55",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 22:28",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 34:05",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 41:56",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 43:16",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 45:05",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 46:30",
+            "label": "substitution-in",
+            "team": "home"
+        }
+    ],
+    "gameAwayTeam": "Dortmund",
+    "gameDate": "13/05/2017 - 16:30",
+    "gameHomeTeam": "FC Augsburg",
+    "gameScore": "1 - 1"
+}

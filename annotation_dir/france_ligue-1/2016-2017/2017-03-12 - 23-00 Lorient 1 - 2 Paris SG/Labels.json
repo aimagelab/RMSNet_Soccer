@@ -1,0 +1,60 @@
+{
+    "UrlLocal": "france_ligue-1/2016-2017/2017-03-12 - 23-00 Lorient 1 - 2 Paris SG/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 27:57",
+            "label": "soccer-ball-own",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 06:08",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 12:01",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 22:51",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 26:39",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 29:58",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 35:59",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 37:52",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 40:18",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 42:41",
+            "label": "substitution-in",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Paris SG",
+    "gameDate": "12/03/2017 - 23:00",
+    "gameHomeTeam": "Lorient",
+    "gameScore": "1 - 2"
+}

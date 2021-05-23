@@ -1,0 +1,65 @@
+{
+    "UrlLocal": "europe_uefa-champions-league/2016-2017/2016-12-06 - 22-45 Benfica 1 - 2 Napoli/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 14:18",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 11:16",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 11:30",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 14:03",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 22:48",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 26:40",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 33:15",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 35:37",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 35:02",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 41:38",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 43:16",
+            "label": "y-card",
+            "team": "home"
+        }
+    ],
+    "gameAwayTeam": "Napoli",
+    "gameDate": "06/12/2016 - 22:45",
+    "gameHomeTeam": "Benfica",
+    "gameScore": "1 - 2"
+}

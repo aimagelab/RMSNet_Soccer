@@ -1,0 +1,65 @@
+{
+    "UrlLocal": "spain_laliga/2016-2017/2017-04-02 - 17-15 Real Madrid 3 - 0 Alaves/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 10:13",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 16:03",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 30:13",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 22:33",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 23:09",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 29:11",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 35:39",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 37:59",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 39:46",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 41:31",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 42:28",
+            "label": "soccer-ball",
+            "team": "home"
+        }
+    ],
+    "gameAwayTeam": "Alaves",
+    "gameDate": "02/04/2017 - 17:15",
+    "gameHomeTeam": "Real Madrid",
+    "gameScore": "3 - 0"
+}

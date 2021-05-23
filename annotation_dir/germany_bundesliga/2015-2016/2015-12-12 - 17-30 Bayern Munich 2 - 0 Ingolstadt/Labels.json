@@ -1,0 +1,65 @@
+{
+    "UrlLocal": "germany_bundesliga/2015-2016/2015-12-12 - 17-30 Bayern Munich 2 - 0 Ingolstadt/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 05:36",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 07:37",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 09:08",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 10:08",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 19:25",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 22:06",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 24:31",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 29:36",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 32:53",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 33:43",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 43:46",
+            "label": "y-card",
+            "team": "home"
+        }
+    ],
+    "gameAwayTeam": "Ingolstadt",
+    "gameDate": "12/12/2015 - 17:30",
+    "gameHomeTeam": "Bayern Munich",
+    "gameScore": "2 - 0"
+}

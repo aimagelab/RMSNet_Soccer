@@ -1,0 +1,95 @@
+{
+    "UrlLocal": "spain_laliga/2016-2017/2016-10-02 - 17-15 Real Madrid 1 - 1 Eibar/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 05:08",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 16:58",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 28:38",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 43:48",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 43:50",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 00:00",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 00:00",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 02:35",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 10:21",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 11:19",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 25:03",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 26:41",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 27:12",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 30:05",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 38:21",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 41:44",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 46:50",
+            "label": "substitution-in",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Eibar",
+    "gameDate": "02/10/2016 - 17:15",
+    "gameHomeTeam": "Real Madrid",
+    "gameScore": "1 - 1"
+}

@@ -1,0 +1,70 @@
+{
+    "UrlLocal": "europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 PSV 2 - 1 Manchester United/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 23:40",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 40:35",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 46:32",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 09:18",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 11:08",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 14:24",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 21:19",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 25:38",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 26:08",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 29:39",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 40:05",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 40:11",
+            "label": "substitution-in",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Manchester United",
+    "gameDate": "15/09/2015 - 21:45",
+    "gameHomeTeam": "PSV",
+    "gameScore": "2 - 1"
+}

@@ -1,0 +1,65 @@
+{
+    "UrlLocal": "italy_serie-a/2014-2015/2015-04-19 - 21-45 Inter 0 - 0 AC Milan/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 27:47",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 32:32",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 34:59",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 21:00",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 24:44",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 27:36",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 30:59",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 35:34",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 36:16",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 37:38",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 38:32",
+            "label": "y-card",
+            "team": "home"
+        }
+    ],
+    "gameAwayTeam": "AC Milan",
+    "gameDate": "19/04/2015 - 21:45",
+    "gameHomeTeam": "Inter",
+    "gameScore": "0 - 0"
+}

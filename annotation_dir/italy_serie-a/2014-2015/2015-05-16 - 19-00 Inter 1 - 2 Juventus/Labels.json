@@ -1,0 +1,90 @@
+{
+    "UrlLocal": "italy_serie-a/2014-2015/2015-05-16 - 19-00 Inter 1 - 2 Juventus/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 08:38",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 32:13",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 34:31",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 40:49",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 41:54",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 06:30",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 08:02",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 10:09",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 12:14",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 20:14",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 22:01",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 25:47",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 32:44",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 36:30",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 37:20",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 43:36",
+            "label": "substitution-in",
+            "team": "home"
+        }
+    ],
+    "gameAwayTeam": "Juventus",
+    "gameDate": "16/05/2015 - 19:00",
+    "gameHomeTeam": "Inter",
+    "gameScore": "1 - 2"
+}

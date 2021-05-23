@@ -1,0 +1,80 @@
+{
+    "UrlLocal": "italy_serie-a/2014-2015/2015-02-15 - 14-30 AC Milan 1 - 1 Empoli/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 07:02",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 39:39",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 02:49",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 08:55",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 18:12",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 18:28",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 22:51",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 32:39",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 34:02",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 34:44",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 36:58",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 38:23",
+            "label": "r-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 39:17",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 45:04",
+            "label": "y-card",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Empoli",
+    "gameDate": "15/02/2015 - 14:30",
+    "gameHomeTeam": "AC Milan",
+    "gameScore": "1 - 1"
+}

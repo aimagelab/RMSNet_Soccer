@@ -1,0 +1,55 @@
+{
+    "UrlLocal": "england_epl/2016-2017/2016-08-20 - 17-00 Burnley 2 - 0 Liverpool/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 01:39",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 36:38",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 10:45",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 19:03",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 19:53",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 32:00",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 32:10",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 36:40",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 47:00",
+            "label": "substitution-in",
+            "team": "home"
+        }
+    ],
+    "gameAwayTeam": "Liverpool",
+    "gameDate": "20/08/2016 - 17:00",
+    "gameHomeTeam": "Burnley",
+    "gameScore": "2 - 0"
+}

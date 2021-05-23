@@ -1,0 +1,95 @@
+{
+    "UrlLocal": "europe_uefa-champions-league/2014-2015/2014-12-09 - 22-45 Galatasaray 1 - 4 Arsenal/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 02:01",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 10:16",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 14:38",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 28:13",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 32:45",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 42:14",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 00:00",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 00:00",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 00:00",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 00:00",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 11:14",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 19:33",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 20:09",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 31:10",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 31:26",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 42:23",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 46:53",
+            "label": "soccer-ball",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Arsenal",
+    "gameDate": "09/12/2014 - 22:45",
+    "gameHomeTeam": "Galatasaray",
+    "gameScore": "1 - 4"
+}

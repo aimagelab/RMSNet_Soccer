@@ -1,0 +1,55 @@
+{
+    "UrlLocal": "england_epl/2016-2017/2016-08-20 - 19-30 Leicester 0 - 0 Arsenal/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 23:03",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 44:37",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 07:17",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 21:42",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 27:38",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 27:53",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 32:09",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 41:20",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 46:49",
+            "label": "y-card",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Arsenal",
+    "gameDate": "20/08/2016 - 19:30",
+    "gameHomeTeam": "Leicester",
+    "gameScore": "0 - 0"
+}

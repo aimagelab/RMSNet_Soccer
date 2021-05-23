@@ -1,0 +1,80 @@
+{
+    "UrlLocal": "spain_laliga/2016-2017/2017-02-26 - 18-15 Atl. Madrid 1 - 2 Barcelona/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 09:04",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 10:44",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 18:24",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 20:26",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 22:51",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 24:51",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 25:51",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 26:56",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 27:48",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 28:21",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 31:10",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 36:23",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 39:07",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 40:55",
+            "label": "soccer-ball",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Barcelona",
+    "gameDate": "26/02/2017 - 18:15",
+    "gameHomeTeam": "Atl. Madrid",
+    "gameScore": "1 - 2"
+}

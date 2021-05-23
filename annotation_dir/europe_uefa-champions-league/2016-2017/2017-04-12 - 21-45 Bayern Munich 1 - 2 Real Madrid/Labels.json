@@ -1,0 +1,90 @@
+{
+    "UrlLocal": "europe_uefa-champions-league/2016-2017/2017-04-12 - 21-45 Bayern Munich 1 - 2 Real Madrid/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 24:44",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 43:43",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 44:30",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 45:53",
+            "label": "penalty-missed",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 01:12",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 01:35",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 12:17",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 13:02",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 15:15",
+            "label": "yr-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 17:56",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 20:25",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 31:03",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 35:12",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 37:48",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 44:27",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 45:21",
+            "label": "substitution-in",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Real Madrid",
+    "gameDate": "12/04/2017 - 21:45",
+    "gameHomeTeam": "Bayern Munich",
+    "gameScore": "1 - 2"
+}

@@ -1,0 +1,95 @@
+{
+    "UrlLocal": "europe_uefa-champions-league/2016-2017/2016-10-19 - 21-45 Barcelona 4 - 0 Manchester City/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 09:14",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 16:06",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 28:55",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 38:30",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 39:17",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 07:04",
+            "label": "r-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 11:34",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 11:47",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 15:14",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 23:26",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 25:23",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 28:00",
+            "label": "yr-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 33:37",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 34:26",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 41:46",
+            "label": "penalty-missed",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 43:45",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 47:31",
+            "label": "y-card",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Manchester City",
+    "gameDate": "19/10/2016 - 21:45",
+    "gameHomeTeam": "Barcelona",
+    "gameScore": "4 - 0"
+}

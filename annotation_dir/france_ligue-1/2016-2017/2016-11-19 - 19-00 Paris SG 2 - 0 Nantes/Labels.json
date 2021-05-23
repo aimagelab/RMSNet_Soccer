@@ -1,0 +1,55 @@
+{
+    "UrlLocal": "france_ligue-1/2016-2017/2016-11-19 - 19-00 Paris SG 2 - 0 Nantes/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 12:48",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 35:36",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 21:27",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 22:15",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 27:37",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 29:29",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 36:02",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 39:56",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 44:20",
+            "label": "soccer-ball",
+            "team": "home"
+        }
+    ],
+    "gameAwayTeam": "Nantes",
+    "gameDate": "19/11/2016 - 19:00",
+    "gameHomeTeam": "Paris SG",
+    "gameScore": "2 - 0"
+}

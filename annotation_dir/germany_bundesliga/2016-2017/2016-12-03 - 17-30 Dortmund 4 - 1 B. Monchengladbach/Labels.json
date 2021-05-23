@@ -1,0 +1,75 @@
+{
+    "UrlLocal": "germany_bundesliga/2016-2017/2016-12-03 - 17-30 Dortmund 4 - 1 B. Monchengladbach/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 05:23",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 06:23",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 13:18",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 14:53",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 35:17",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 35:57",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 18:10",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 22:58",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 27:51",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 32:49",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 33:02",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 36:23",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 43:21",
+            "label": "substitution-in",
+            "team": "home"
+        }
+    ],
+    "gameAwayTeam": "B. Monchengladbach",
+    "gameDate": "03/12/2016 - 17:30",
+    "gameHomeTeam": "Dortmund",
+    "gameScore": "4 - 1"
+}

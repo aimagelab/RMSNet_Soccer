@@ -1,0 +1,75 @@
+{
+    "UrlLocal": "italy_serie-a/2016-2017/2017-01-08 - 17-00 Genoa 0 - 1 AS Roma/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 08:31",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 26:51",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 35:03",
+            "label": "soccer-ball-own",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 37:16",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 03:43",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 16:43",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 20:03",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 31:57",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 32:36",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 35:33",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 38:06",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 39:40",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 42:45",
+            "label": "substitution-in",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "AS Roma",
+    "gameDate": "08/01/2017 - 17:00",
+    "gameHomeTeam": "Genoa",
+    "gameScore": "0 - 1"
+}

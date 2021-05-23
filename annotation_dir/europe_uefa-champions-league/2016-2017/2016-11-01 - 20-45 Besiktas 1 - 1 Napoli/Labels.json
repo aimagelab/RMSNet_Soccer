@@ -1,0 +1,60 @@
+{
+    "UrlLocal": "europe_uefa-champions-league/2016-2017/2016-11-01 - 20-45 Besiktas 1 - 1 Napoli/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 23:04",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 01:53",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 11:26",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 17:42",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 20:02",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 32:58",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 33:29",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 35:12",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 36:12",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 37:18",
+            "label": "y-card",
+            "team": "home"
+        }
+    ],
+    "gameAwayTeam": "Napoli",
+    "gameDate": "01/11/2016 - 20:45",
+    "gameHomeTeam": "Besiktas",
+    "gameScore": "1 - 1"
+}

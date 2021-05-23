@@ -1,0 +1,60 @@
+{
+    "UrlLocal": "germany_bundesliga/2015-2016/2015-09-12 - 16-30 Bayern Munich 2 - 1 FC Augsburg/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 42:08",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 10:23",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 24:39",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 30:46",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 31:31",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 42:59",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 44:01",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 45:07",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 45:21",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 46:40",
+            "label": "substitution-in",
+            "team": "home"
+        }
+    ],
+    "gameAwayTeam": "FC Augsburg",
+    "gameDate": "12/09/2015 - 16:30",
+    "gameHomeTeam": "Bayern Munich",
+    "gameScore": "2 - 1"
+}

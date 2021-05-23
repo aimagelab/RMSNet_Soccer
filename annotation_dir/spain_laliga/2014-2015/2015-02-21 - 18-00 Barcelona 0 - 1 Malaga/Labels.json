@@ -1,0 +1,80 @@
+{
+    "UrlLocal": "spain_laliga/2014-2015/2015-02-21 - 18-00 Barcelona 0 - 1 Malaga/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 06:54",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 11:26",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 03:37",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 04:52",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 16:46",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 17:08",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 21:53",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 27:41",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 33:46",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 33:21",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 39:03",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 41:55",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 45:52",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 45:53",
+            "label": "y-card",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Malaga",
+    "gameDate": "21/02/2015 - 18:00",
+    "gameHomeTeam": "Barcelona",
+    "gameScore": "0 - 1"
+}

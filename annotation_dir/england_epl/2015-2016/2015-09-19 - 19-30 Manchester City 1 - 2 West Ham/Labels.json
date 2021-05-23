@@ -1,0 +1,70 @@
+{
+    "UrlLocal": "england_epl/2015-2016/2015-09-19 - 19-30 Manchester City 1 - 2 West Ham/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 05:20",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 21:41",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 30:45",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 46:12",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 49:03",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 00:00",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 08:08",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 14:37",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 20:18",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 23:51",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 38:47",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 39:39",
+            "label": "substitution-in",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "West Ham",
+    "gameDate": "19/09/2015 - 19:30",
+    "gameHomeTeam": "Manchester City",
+    "gameScore": "1 - 2"
+}

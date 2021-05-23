@@ -1,0 +1,80 @@
+{
+    "UrlLocal": "italy_serie-a/2016-2017/2017-02-26 - 22-45 Inter 1 - 3 AS Roma/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 05:18",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 11:16",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 39:59",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 09:07",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 10:21",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 25:34",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 29:40",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 35:00",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 35:37",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 37:35",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 37:36",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 38:29",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 39:57",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 43:12",
+            "label": "substitution-in",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "AS Roma",
+    "gameDate": "26/02/2017 - 22:45",
+    "gameHomeTeam": "Inter",
+    "gameScore": "1 - 3"
+}

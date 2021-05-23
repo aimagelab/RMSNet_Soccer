@@ -1,0 +1,85 @@
+{
+    "UrlLocal": "italy_serie-a/2016-2017/2017-02-07 - 22-45 AS Roma 4 - 0 Fiorentina/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 17:47",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 34:44",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 38:26",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 40:50",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 10:28",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 11:31",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 12:30",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 17:14",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 28:55",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 29:50",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 32:18",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 35:02",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 37:39",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 39:12",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 43:37",
+            "label": "substitution-in",
+            "team": "home"
+        }
+    ],
+    "gameAwayTeam": "Fiorentina",
+    "gameDate": "07/02/2017 - 22:45",
+    "gameHomeTeam": "AS Roma",
+    "gameScore": "4 - 0"
+}

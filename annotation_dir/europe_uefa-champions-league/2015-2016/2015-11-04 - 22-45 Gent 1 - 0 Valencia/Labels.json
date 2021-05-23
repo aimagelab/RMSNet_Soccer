@@ -1,0 +1,70 @@
+{
+    "UrlLocal": "europe_uefa-champions-league/2015-2016/2015-11-04 - 22-45 Gent 1 - 0 Valencia/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 29:12",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 00:00",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 03:28",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 09:16",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 15:56",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 17:36",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 24:08",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 26:27",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 27:16",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 39:01",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 39:39",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 47:49",
+            "label": "substitution-in",
+            "team": "home"
+        }
+    ],
+    "gameAwayTeam": "Valencia",
+    "gameDate": "04/11/2015 - 22:45",
+    "gameHomeTeam": "Gent",
+    "gameScore": "1 - 0"
+}

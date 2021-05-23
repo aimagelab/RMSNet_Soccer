@@ -1,0 +1,105 @@
+{
+    "UrlLocal": "europe_uefa-champions-league/2015-2016/2015-11-24 - 22-45 Barcelona 6 - 1 AS Roma/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 14:34",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 17:08",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 40:02",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 43:34",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 00:00",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 00:00",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 10:04",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 11:00",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 11:37",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 12:32",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 13:59",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 16:18",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 17:57",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 18:28",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 29:37",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 31:19",
+            "label": "penalty-missed",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 31:21",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 36:40",
+            "label": "penalty-missed",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 45:45",
+            "label": "soccer-ball",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "AS Roma",
+    "gameDate": "24/11/2015 - 22:45",
+    "gameHomeTeam": "Barcelona",
+    "gameScore": "6 - 1"
+}

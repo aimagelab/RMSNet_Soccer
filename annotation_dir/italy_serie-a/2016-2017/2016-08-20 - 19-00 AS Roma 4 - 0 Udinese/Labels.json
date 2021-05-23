@@ -1,0 +1,70 @@
+{
+    "UrlLocal": "italy_serie-a/2016-2017/2016-08-20 - 19-00 AS Roma 4 - 0 Udinese/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 03:23",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 06:04",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 11:43",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 18:21",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 19:06",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 22:27",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 29:56",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 30:52",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 33:11",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 34:39",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 36:50",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 38:46",
+            "label": "soccer-ball",
+            "team": "home"
+        }
+    ],
+    "gameAwayTeam": "Udinese",
+    "gameDate": "20/08/2016 - 19:00",
+    "gameHomeTeam": "AS Roma",
+    "gameScore": "4 - 0"
+}

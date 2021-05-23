@@ -1,0 +1,60 @@
+{
+    "UrlLocal": "europe_uefa-champions-league/2014-2015/2015-02-17 - 22-45 Paris SG 1 - 1 Chelsea/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 35:24",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 06:52",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 08:52",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 19:59",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 27:04",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 33:01",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 33:28",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 35:47",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 36:02",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 37:59",
+            "label": "substitution-in",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Chelsea",
+    "gameDate": "17/02/2015 - 22:45",
+    "gameHomeTeam": "Paris SG",
+    "gameScore": "1 - 1"
+}

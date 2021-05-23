@@ -1,0 +1,75 @@
+{
+    "UrlLocal": "spain_laliga/2016-2017/2017-02-19 - 22-45 Barcelona 2 - 1 Leganes/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 03:11",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 00:36",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 09:50",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 19:11",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 24:30",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 25:08",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 34:15",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 34:20",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 35:50",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 41:04",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 41:07",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 44:04",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 49:52",
+            "label": "y-card",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Leganes",
+    "gameDate": "19/02/2017 - 22:45",
+    "gameHomeTeam": "Barcelona",
+    "gameScore": "2 - 1"
+}

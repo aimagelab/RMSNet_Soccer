@@ -1,0 +1,70 @@
+{
+    "UrlLocal": "spain_laliga/2015-2016/2015-09-12 - 21-30 Atl. Madrid 1 - 2 Barcelona/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 17:40",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 27:27",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 42:24",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 43:43",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 05:57",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 09:21",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 14:18",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 15:00",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 16:48",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 31:26",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 35:52",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 43:09",
+            "label": "y-card",
+            "team": "home"
+        }
+    ],
+    "gameAwayTeam": "Barcelona",
+    "gameDate": "12/09/2015 - 21:30",
+    "gameHomeTeam": "Atl. Madrid",
+    "gameScore": "1 - 2"
+}

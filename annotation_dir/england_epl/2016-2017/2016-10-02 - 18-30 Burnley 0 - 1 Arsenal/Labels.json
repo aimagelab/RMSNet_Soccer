@@ -1,0 +1,30 @@
+{
+    "UrlLocal": "england_epl/2016-2017/2016-10-02 - 18-30 Burnley 0 - 1 Arsenal/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 16:17",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 25:28",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 25:27",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 47:06",
+            "label": "soccer-ball",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Arsenal",
+    "gameDate": "02/10/2016 - 18:30",
+    "gameHomeTeam": "Burnley",
+    "gameScore": "0 - 1"
+}

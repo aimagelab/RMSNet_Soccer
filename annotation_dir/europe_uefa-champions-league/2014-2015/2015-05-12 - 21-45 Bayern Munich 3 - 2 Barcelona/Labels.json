@@ -1,0 +1,100 @@
+{
+    "UrlLocal": "europe_uefa-champions-league/2014-2015/2015-05-12 - 21-45 Bayern Munich 3 - 2 Barcelona/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 06:46",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 14:16",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 28:48",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 39:55",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 46:35",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 00:00",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 13:44",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 18:29",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 22:17",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 26:01",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 28:17",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 29:47",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 31:04",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 35:45",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 38:18",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 39:43",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 41:36",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 41:52",
+            "label": "substitution-in",
+            "team": "home"
+        }
+    ],
+    "gameAwayTeam": "Barcelona",
+    "gameDate": "12/05/2015 - 21:45",
+    "gameHomeTeam": "Bayern Munich",
+    "gameScore": "3 - 2"
+}

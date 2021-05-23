@@ -1,0 +1,75 @@
+{
+    "UrlLocal": "europe_uefa-champions-league/2014-2015/2015-02-17 - 22-45 Shakhtar Donetsk 0 - 0 Bayern Munich/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 22:04",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 23:36",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 37:29",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 12:50",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 19:50",
+            "label": "yr-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 24:11",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 29:09",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 31:49",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 32:12",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 34:33",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 38:21",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 38:50",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 43:11",
+            "label": "substitution-in",
+            "team": "home"
+        }
+    ],
+    "gameAwayTeam": "Bayern Munich",
+    "gameDate": "17/02/2015 - 22:45",
+    "gameHomeTeam": "Shakhtar Donetsk",
+    "gameScore": "0 - 0"
+}

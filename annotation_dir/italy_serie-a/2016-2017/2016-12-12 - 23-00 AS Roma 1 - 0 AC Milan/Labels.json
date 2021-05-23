@@ -1,0 +1,55 @@
+{
+    "UrlLocal": "italy_serie-a/2016-2017/2016-12-12 - 23-00 AS Roma 1 - 0 AC Milan/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 17:40",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 27:00",
+            "label": "penalty-missed",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 41:40",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 16:51",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 21:06",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 26:00",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 33:01",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 38:32",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 38:50",
+            "label": "substitution-in",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "AC Milan",
+    "gameDate": "12/12/2016 - 23:00",
+    "gameHomeTeam": "AS Roma",
+    "gameScore": "1 - 0"
+}

@@ -1,0 +1,70 @@
+{
+    "UrlLocal": "france_ligue-1/2016-2017/2016-08-12 - 21-00 Bastia 0 - 1 Paris SG/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 21:28",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 34:26",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 12:50",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 19:03",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 24:41",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 27:59",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 29:21",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 29:31",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 35:48",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 47:01",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 47:01",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 47:01",
+            "label": "y-card",
+            "team": "home"
+        }
+    ],
+    "gameAwayTeam": "Paris SG",
+    "gameDate": "12/08/2016 - 21:00",
+    "gameHomeTeam": "Bastia",
+    "gameScore": "0 - 1"
+}

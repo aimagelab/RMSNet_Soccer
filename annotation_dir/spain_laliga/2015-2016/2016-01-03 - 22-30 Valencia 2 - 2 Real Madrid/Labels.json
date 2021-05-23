@@ -1,0 +1,65 @@
+{
+    "UrlLocal": "spain_laliga/2015-2016/2016-01-03 - 22-30 Valencia 2 - 2 Real Madrid/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 15:54",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 44:19",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 45:10",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 11:30",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 21:22",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 22:57",
+            "label": "r-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 34:04",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 36:08",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 37:19",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 38:55",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 41:30",
+            "label": "substitution-in",
+            "team": "home"
+        }
+    ],
+    "gameAwayTeam": "Real Madrid",
+    "gameDate": "03/01/2016 - 22:30",
+    "gameHomeTeam": "Valencia",
+    "gameScore": "2 - 2"
+}

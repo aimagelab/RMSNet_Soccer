@@ -1,0 +1,85 @@
+{
+    "UrlLocal": "spain_laliga/2014-2015/2015-04-18 - 21-00 Real Madrid 3 - 1 Malaga/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 04:08",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 23:44",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 14:49",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 15:55",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 21:25",
+            "label": "penalty-missed",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 23:18",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 25:17",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 29:30",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 30:46",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 31:09",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 35:19",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 35:40",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 41:18",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 41:34",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 46:02",
+            "label": "soccer-ball",
+            "team": "home"
+        }
+    ],
+    "gameAwayTeam": "Malaga",
+    "gameDate": "18/04/2015 - 21:00",
+    "gameHomeTeam": "Real Madrid",
+    "gameScore": "3 - 1"
+}

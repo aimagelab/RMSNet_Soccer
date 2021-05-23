@@ -1,0 +1,75 @@
+{
+    "UrlLocal": "europe_uefa-champions-league/2015-2016/2015-11-24 - 22-45 Maccabi Tel Aviv 0 - 4 Chelsea/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 19:49",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 39:45",
+            "label": "r-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 13:23",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 23:04",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 26:09",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 27:27",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 31:08",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 33:29",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 34:25",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 38:38",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 39:35",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 43:16",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 45:37",
+            "label": "soccer-ball",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Chelsea",
+    "gameDate": "24/11/2015 - 22:45",
+    "gameHomeTeam": "Maccabi Tel Aviv",
+    "gameScore": "0 - 4"
+}

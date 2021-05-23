@@ -1,0 +1,70 @@
+{
+    "UrlLocal": "england_epl/2015-2016/2016-02-14 - 19-15 Manchester City 1 - 2 Tottenham/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 45:05",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 00:00",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 07:57",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 10:13",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 20:36",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 26:26",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 28:38",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 29:25",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 30:24",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 35:24",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 37:42",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 43:38",
+            "label": "substitution-in",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Tottenham",
+    "gameDate": "14/02/2016 - 19:15",
+    "gameHomeTeam": "Manchester City",
+    "gameScore": "1 - 2"
+}

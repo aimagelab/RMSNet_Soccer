@@ -1,0 +1,70 @@
+{
+    "UrlLocal": "france_ligue-1/2016-2017/2017-04-18 - 19-30 Metz 2 - 3 Paris SG/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 32:20",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 35:47",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 41:43",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 15:41",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 17:06",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 26:08",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 30:05",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 30:22",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 32:59",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 42:31",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 44:27",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 48:00",
+            "label": "soccer-ball",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Paris SG",
+    "gameDate": "18/04/2017 - 19:30",
+    "gameHomeTeam": "Metz",
+    "gameScore": "2 - 3"
+}

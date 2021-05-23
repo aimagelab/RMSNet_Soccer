@@ -1,0 +1,75 @@
+{
+    "UrlLocal": "europe_uefa-champions-league/2015-2016/2015-11-24 - 20-00 Zenit Petersburg 2 - 0 Valencia/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 14:34",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 16:10",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 44:37",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 10:28",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 19:06",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 25:16",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 27:27",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 28:53",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 32:11",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 33:28",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 34:30",
+            "label": "r-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 37:42",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 40:04",
+            "label": "substitution-in",
+            "team": "home"
+        }
+    ],
+    "gameAwayTeam": "Valencia",
+    "gameDate": "24/11/2015 - 20:00",
+    "gameHomeTeam": "Zenit Petersburg",
+    "gameScore": "2 - 0"
+}

@@ -1,0 +1,70 @@
+{
+    "UrlLocal": "italy_serie-a/2016-2017/2017-02-25 - 20-00 Napoli 0 - 2 Atalanta/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 27:48",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 39:57",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 13:35",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 18:28",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 21:13",
+            "label": "yr-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 24:04",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 31:39",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 33:20",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 33:40",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 37:03",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 40:29",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 45:51",
+            "label": "substitution-in",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Atalanta",
+    "gameDate": "25/02/2017 - 20:00",
+    "gameHomeTeam": "Napoli",
+    "gameScore": "0 - 2"
+}

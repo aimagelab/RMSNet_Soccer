@@ -1,0 +1,75 @@
+{
+    "UrlLocal": "germany_bundesliga/2015-2016/2015-09-20 - 18-30 Dortmund 3 - 0 Bayer Leverkusen/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 18:17",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 40:49",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 00:00",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 00:00",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 13:10",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 15:31",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 18:30",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 25:36",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 27:37",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 28:12",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 32:33",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 35:10",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 42:05",
+            "label": "substitution-in",
+            "team": "home"
+        }
+    ],
+    "gameAwayTeam": "Bayer Leverkusen",
+    "gameDate": "20/09/2015 - 18:30",
+    "gameHomeTeam": "Dortmund",
+    "gameScore": "3 - 0"
+}

@@ -1,0 +1,75 @@
+{
+    "UrlLocal": "france_ligue-1/2016-2017/2016-11-06 - 22-45 Paris SG 4 - 0 Rennes/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 30:30",
+            "label": "soccer-ball-own",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 41:23",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 46:07",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 02:42",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 04:59",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 10:05",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 15:09",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 15:22",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 17:53",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 21:14",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 23:25",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 32:56",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 33:36",
+            "label": "soccer-ball",
+            "team": "home"
+        }
+    ],
+    "gameAwayTeam": "Rennes",
+    "gameDate": "06/11/2016 - 22:45",
+    "gameHomeTeam": "Paris SG",
+    "gameScore": "4 - 0"
+}

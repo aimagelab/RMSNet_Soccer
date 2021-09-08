@@ -1,0 +1,80 @@
+{
+    "UrlLocal": "germany_bundesliga/2016-2017/2016-09-20 - 21-00 Wolfsburg 1 - 5 Dortmund/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 03:07",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 11:06",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 12:03",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 15:57",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 24:07",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 00:00",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 00:00",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 00:00",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 07:42",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 12:48",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 16:22",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 18:00",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 22:57",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 27:37",
+            "label": "soccer-ball",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Dortmund",
+    "gameDate": "20/09/2016 - 21:00",
+    "gameHomeTeam": "Wolfsburg",
+    "gameScore": "1 - 5"
+}

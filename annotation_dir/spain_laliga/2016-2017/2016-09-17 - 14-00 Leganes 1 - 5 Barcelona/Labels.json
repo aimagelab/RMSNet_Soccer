@@ -1,0 +1,100 @@
+{
+    "UrlLocal": "spain_laliga/2016-2017/2016-09-17 - 14-00 Leganes 1 - 5 Barcelona/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 14:50",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 23:59",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 26:34",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 30:41",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 38:03",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 43:26",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 00:00",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 08:42",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 09:26",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 10:52",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 11:50",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 15:43",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 15:43",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 18:26",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 19:45",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 34:19",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 34:53",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 41:26",
+            "label": "y-card",
+            "team": "home"
+        }
+    ],
+    "gameAwayTeam": "Barcelona",
+    "gameDate": "17/09/2016 - 14:00",
+    "gameHomeTeam": "Leganes",
+    "gameScore": "1 - 5"
+}

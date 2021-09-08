@@ -1,0 +1,65 @@
+{
+    "UrlLocal": "europe_uefa-champions-league/2015-2016/2016-04-05 - 21-45 Bayern Munich 1 - 0 Benfica/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 01:48",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 21:05",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 41:21",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 12:33",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 14:09",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 16:42",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 24:31",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 24:41",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 37:05",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 39:43",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 45:06",
+            "label": "substitution-in",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Benfica",
+    "gameDate": "05/04/2016 - 21:45",
+    "gameHomeTeam": "Bayern Munich",
+    "gameScore": "1 - 0"
+}

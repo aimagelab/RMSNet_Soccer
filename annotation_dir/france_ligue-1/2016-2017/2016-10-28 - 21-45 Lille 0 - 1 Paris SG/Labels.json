@@ -1,0 +1,60 @@
+{
+    "UrlLocal": "france_ligue-1/2016-2017/2016-10-28 - 21-45 Lille 0 - 1 Paris SG/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 43:49",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 08:06",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 14:42",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 19:26",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 22:27",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 22:34",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 32:30",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 34:38",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 34:49",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 39:40",
+            "label": "substitution-in",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Paris SG",
+    "gameDate": "28/10/2016 - 21:45",
+    "gameHomeTeam": "Lille",
+    "gameScore": "0 - 1"
+}

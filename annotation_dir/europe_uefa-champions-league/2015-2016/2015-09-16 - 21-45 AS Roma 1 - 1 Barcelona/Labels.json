@@ -1,0 +1,55 @@
+{
+    "UrlLocal": "europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 AS Roma 1 - 1 Barcelona/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 20:21",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 30:38",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 04:25",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 15:59",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 17:00",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 19:37",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 29:46",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 35:59",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 39:45",
+            "label": "substitution-in",
+            "team": "home"
+        }
+    ],
+    "gameAwayTeam": "Barcelona",
+    "gameDate": "16/09/2015 - 21:45",
+    "gameHomeTeam": "AS Roma",
+    "gameScore": "1 - 1"
+}

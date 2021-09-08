@@ -1,0 +1,80 @@
+{
+    "UrlLocal": "france_ligue-1/2016-2017/2016-09-09 - 21-45 Paris SG 1 - 1 St Etienne/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 24:00",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 37:46",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 00:00",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 09:58",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 12:17",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 16:08",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 20:04",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 21:03",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 22:06",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 23:23",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 25:41",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 26:23",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 33:57",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 46:58",
+            "label": "soccer-ball",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "St Etienne",
+    "gameDate": "09/09/2016 - 21:45",
+    "gameHomeTeam": "Paris SG",
+    "gameScore": "1 - 1"
+}

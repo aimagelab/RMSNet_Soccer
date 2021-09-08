@@ -1,0 +1,90 @@
+{
+    "UrlLocal": "europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Dyn. Kiev 2 - 2 FC Porto/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 16:40",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 19:38",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 22:20",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 39:09",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 00:55",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 02:59",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 12:03",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 19:37",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 21:23",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 25:01",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 32:27",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 35:46",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 41:01",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 42:09",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 43:12",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 46:08",
+            "label": "substitution-in",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "FC Porto",
+    "gameDate": "16/09/2015 - 21:45",
+    "gameHomeTeam": "Dyn. Kiev",
+    "gameScore": "2 - 2"
+}

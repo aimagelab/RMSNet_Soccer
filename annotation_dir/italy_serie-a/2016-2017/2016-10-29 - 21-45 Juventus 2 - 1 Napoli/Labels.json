@@ -1,0 +1,80 @@
+{
+    "UrlLocal": "italy_serie-a/2016-2017/2016-10-29 - 21-45 Juventus 2 - 1 Napoli/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 20:15",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 21:04",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 29:46",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 38:28",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 04:09",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 08:28",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 15:29",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 15:54",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 22:08",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 24:59",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 30:40",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 30:49",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 36:41",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 39:50",
+            "label": "y-card",
+            "team": "home"
+        }
+    ],
+    "gameAwayTeam": "Napoli",
+    "gameDate": "29/10/2016 - 21:45",
+    "gameHomeTeam": "Juventus",
+    "gameScore": "2 - 1"
+}

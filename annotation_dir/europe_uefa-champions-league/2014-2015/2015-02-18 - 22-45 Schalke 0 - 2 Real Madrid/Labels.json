@@ -1,0 +1,70 @@
+{
+    "UrlLocal": "europe_uefa-champions-league/2014-2015/2015-02-18 - 22-45 Schalke 0 - 2 Real Madrid/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 08:43",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 25:47",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 32:06",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 32:56",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 46:14",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 11:20",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 17:19",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 32:49",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 33:25",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 34:37",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 36:26",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 39:05",
+            "label": "substitution-in",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Real Madrid",
+    "gameDate": "18/02/2015 - 22:45",
+    "gameHomeTeam": "Schalke",
+    "gameScore": "0 - 2"
+}

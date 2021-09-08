@@ -1,0 +1,95 @@
+{
+    "UrlLocal": "europe_uefa-champions-league/2016-2017/2016-09-28 - 21-45 Napoli 4 - 2 Benfica/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 10:31",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 19:05",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 04:29",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 05:28",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 07:51",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 08:27",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 10:39",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 12:01",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 19:42",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 21:08",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 24:00",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 24:56",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 31:03",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 36:36",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 36:39",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 40:29",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 41:16",
+            "label": "y-card",
+            "team": "home"
+        }
+    ],
+    "gameAwayTeam": "Benfica",
+    "gameDate": "28/09/2016 - 21:45",
+    "gameHomeTeam": "Napoli",
+    "gameScore": "4 - 2"
+}

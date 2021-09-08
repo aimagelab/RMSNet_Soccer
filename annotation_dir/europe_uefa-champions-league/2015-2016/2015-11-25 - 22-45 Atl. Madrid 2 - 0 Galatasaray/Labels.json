@@ -1,0 +1,55 @@
+{
+    "UrlLocal": "europe_uefa-champions-league/2015-2016/2015-11-25 - 22-45 Atl. Madrid 2 - 0 Galatasaray/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 12:02",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 23:37",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 10:18",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 17:54",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 19:00",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 22:37",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 25:19",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 29:36",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 32:13",
+            "label": "substitution-in",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Galatasaray",
+    "gameDate": "25/11/2015 - 22:45",
+    "gameHomeTeam": "Atl. Madrid",
+    "gameScore": "2 - 0"
+}

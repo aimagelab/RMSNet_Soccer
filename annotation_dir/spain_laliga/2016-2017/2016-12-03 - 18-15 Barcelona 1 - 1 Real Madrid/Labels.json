@@ -1,0 +1,80 @@
+{
+    "UrlLocal": "spain_laliga/2016-2017/2016-12-03 - 18-15 Barcelona 1 - 1 Real Madrid/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 12:42",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 27:57",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 07:23",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 14:18",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 20:34",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 29:35",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 31:36",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 32:24",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 34:31",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 38:00",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 40:48",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 41:55",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 43:57",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 44:49",
+            "label": "soccer-ball",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Real Madrid",
+    "gameDate": "03/12/2016 - 18:15",
+    "gameHomeTeam": "Barcelona",
+    "gameScore": "1 - 1"
+}

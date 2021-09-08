@@ -1,0 +1,70 @@
+{
+    "UrlLocal": "france_ligue-1/2015-2016/2015-09-19 - 18-30 Reims 1 - 1 Paris SG/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 03:55",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 23:25",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 09:32",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 19:31",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 20:07",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 21:37",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 28:45",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 30:17",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 31:18",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 34:34",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 37:03",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 38:15",
+            "label": "soccer-ball",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Paris SG",
+    "gameDate": "19/09/2015 - 18:30",
+    "gameHomeTeam": "Reims",
+    "gameScore": "1 - 1"
+}

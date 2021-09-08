@@ -1,0 +1,75 @@
+{
+    "UrlLocal": "spain_laliga/2016-2017/2016-12-18 - 22-45 Barcelona 4 - 1 Espanyol/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 09:07",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 12:25",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 17:17",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 07:27",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 19:33",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 20:08",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 21:20",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 22:58",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 25:37",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 29:00",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 33:43",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 34:37",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 44:01",
+            "label": "soccer-ball",
+            "team": "home"
+        }
+    ],
+    "gameAwayTeam": "Espanyol",
+    "gameDate": "18/12/2016 - 22:45",
+    "gameHomeTeam": "Barcelona",
+    "gameScore": "4 - 1"
+}

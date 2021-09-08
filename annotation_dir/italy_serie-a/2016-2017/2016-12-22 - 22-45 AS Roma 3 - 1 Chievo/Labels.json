@@ -1,0 +1,65 @@
+{
+    "UrlLocal": "italy_serie-a/2016-2017/2016-12-22 - 22-45 AS Roma 3 - 1 Chievo/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 36:21",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 40:08",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 44:40",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 45:35",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 06:38",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 13:26",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 29:24",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 36:44",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 42:09",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 45:02",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 47:03",
+            "label": "soccer-ball",
+            "team": "home"
+        }
+    ],
+    "gameAwayTeam": "Chievo",
+    "gameDate": "22/12/2016 - 22:45",
+    "gameHomeTeam": "AS Roma",
+    "gameScore": "3 - 1"
+}

@@ -1,0 +1,85 @@
+{
+    "UrlLocal": "europe_uefa-champions-league/2014-2015/2014-11-05 - 22-45 Ajax 0 - 2 Barcelona/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 07:34",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 08:49",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 33:20",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 35:17",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 39:02",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 41:23",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 44:54",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 16:44",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 25:11",
+            "label": "yr-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 26:46",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 29:14",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 30:08",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 34:05",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 34:35",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 37:37",
+            "label": "substitution-in",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Barcelona",
+    "gameDate": "05/11/2014 - 22:45",
+    "gameHomeTeam": "Ajax",
+    "gameScore": "0 - 2"
+}

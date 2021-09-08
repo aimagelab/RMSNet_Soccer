@@ -1,0 +1,65 @@
+{
+    "UrlLocal": "england_epl/2016-2017/2016-09-16 - 22-00 Chelsea 1 - 2 Liverpool/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 16:25",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 35:37",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 45:13",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 11:56",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 15:50",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 36:31",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 38:08",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 38:18",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 38:29",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 42:49",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 44:43",
+            "label": "substitution-in",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Liverpool",
+    "gameDate": "16/09/2016 - 22:00",
+    "gameHomeTeam": "Chelsea",
+    "gameScore": "1 - 2"
+}

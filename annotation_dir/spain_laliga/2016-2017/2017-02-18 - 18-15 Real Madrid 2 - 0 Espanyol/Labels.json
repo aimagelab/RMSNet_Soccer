@@ -1,0 +1,80 @@
+{
+    "UrlLocal": "spain_laliga/2016-2017/2017-02-18 - 18-15 Real Madrid 2 - 0 Espanyol/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 27:31",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 32:38",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 40:44",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 00:00",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 02:52",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 07:50",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 15:45",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 22:28",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 25:43",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 34:52",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 35:33",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 36:14",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 36:50",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 37:58",
+            "label": "soccer-ball",
+            "team": "home"
+        }
+    ],
+    "gameAwayTeam": "Espanyol",
+    "gameDate": "18/02/2017 - 18:15",
+    "gameHomeTeam": "Real Madrid",
+    "gameScore": "2 - 0"
+}

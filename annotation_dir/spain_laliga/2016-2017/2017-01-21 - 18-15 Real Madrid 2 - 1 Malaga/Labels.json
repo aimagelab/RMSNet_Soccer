@@ -1,0 +1,80 @@
+{
+    "UrlLocal": "spain_laliga/2016-2017/2017-01-21 - 18-15 Real Madrid 2 - 1 Malaga/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 24:41",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 34:52",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 36:30",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 38:18",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 42:06",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 17:43",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 21:06",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 27:48",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 32:04",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 32:41",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 32:58",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 36:43",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 39:15",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 40:05",
+            "label": "y-card",
+            "team": "home"
+        }
+    ],
+    "gameAwayTeam": "Malaga",
+    "gameDate": "21/01/2017 - 18:15",
+    "gameHomeTeam": "Real Madrid",
+    "gameScore": "2 - 1"
+}

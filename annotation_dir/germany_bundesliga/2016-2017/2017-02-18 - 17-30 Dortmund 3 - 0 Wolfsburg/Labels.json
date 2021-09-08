@@ -1,0 +1,70 @@
+{
+    "UrlLocal": "germany_bundesliga/2016-2017/2017-02-18 - 17-30 Dortmund 3 - 0 Wolfsburg/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 19:19",
+            "label": "soccer-ball-own",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 32:49",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 02:50",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 07:35",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 14:00",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 14:40",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 21:23",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 27:29",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 29:52",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 35:11",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 43:29",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 43:31",
+            "label": "y-card",
+            "team": "home"
+        }
+    ],
+    "gameAwayTeam": "Wolfsburg",
+    "gameDate": "18/02/2017 - 17:30",
+    "gameHomeTeam": "Dortmund",
+    "gameScore": "3 - 0"
+}

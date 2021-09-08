@@ -1,0 +1,55 @@
+{
+    "UrlLocal": "europe_uefa-champions-league/2014-2015/2015-04-21 - 21-45 Barcelona 2 - 0 Paris SG/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 02:44",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 13:05",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 33:11",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 00:00",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 09:20",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 20:50",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 29:15",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 34:05",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 34:16",
+            "label": "substitution-in",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Paris SG",
+    "gameDate": "21/04/2015 - 21:45",
+    "gameHomeTeam": "Barcelona",
+    "gameScore": "2 - 0"
+}

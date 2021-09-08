@@ -1,0 +1,100 @@
+{
+    "UrlLocal": "europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 Arsenal 2 - 3 Olympiakos Piraeus/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 31:56",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 34:26",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 39:23",
+            "label": "soccer-ball-own",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 42:58",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 44:28",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 00:00",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 11:15",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 14:18",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 19:00",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 19:53",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 20:53",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 27:23",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 29:14",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 30:10",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 30:59",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 32:01",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 40:01",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 41:07",
+            "label": "substitution-in",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Olympiakos Piraeus",
+    "gameDate": "29/09/2015 - 21:45",
+    "gameHomeTeam": "Arsenal",
+    "gameScore": "2 - 3"
+}

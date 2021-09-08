@@ -1,0 +1,65 @@
+{
+    "UrlLocal": "italy_serie-a/2016-2017/2017-04-30 - 21-45 Inter 0 - 1 Napoli/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 42:31",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 06:44",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 10:17",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 13:45",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 17:28",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 19:45",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 26:57",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 27:04",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 27:56",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 31:32",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 35:03",
+            "label": "substitution-in",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Napoli",
+    "gameDate": "30/04/2017 - 21:45",
+    "gameHomeTeam": "Inter",
+    "gameScore": "0 - 1"
+}

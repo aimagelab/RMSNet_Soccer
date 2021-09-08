@@ -1,0 +1,95 @@
+{
+    "UrlLocal": "spain_laliga/2015-2016/2016-04-16 - 17-00 Getafe 1 - 5 Real Madrid/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 08:40",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 28:47",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 39:18",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 42:52",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 04:08",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 06:28",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 06:36",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 11:25",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 15:13",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 15:59",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 21:46",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 32:37",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 38:00",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 39:22",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 42:10",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 44:23",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 46:14",
+            "label": "soccer-ball",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Real Madrid",
+    "gameDate": "16/04/2016 - 17:00",
+    "gameHomeTeam": "Getafe",
+    "gameScore": "1 - 5"
+}

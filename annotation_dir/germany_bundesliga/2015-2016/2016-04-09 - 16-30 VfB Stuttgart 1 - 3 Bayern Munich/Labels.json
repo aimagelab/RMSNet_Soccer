@@ -1,0 +1,70 @@
+{
+    "UrlLocal": "germany_bundesliga/2015-2016/2016-04-09 - 16-30 VfB Stuttgart 1 - 3 Bayern Munich/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 21:34",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 26:05",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 30:17",
+            "label": "soccer-ball-own",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 36:38",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 45:22",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 06:30",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 14:13",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 17:33",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 23:36",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 29:04",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 29:13",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 43:14",
+            "label": "soccer-ball",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Bayern Munich",
+    "gameDate": "09/04/2016 - 16:30",
+    "gameHomeTeam": "VfB Stuttgart",
+    "gameScore": "1 - 3"
+}

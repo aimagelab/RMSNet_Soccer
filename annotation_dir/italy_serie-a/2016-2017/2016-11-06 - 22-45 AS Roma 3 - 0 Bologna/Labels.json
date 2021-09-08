@@ -1,0 +1,60 @@
+{
+    "UrlLocal": "italy_serie-a/2016-2017/2016-11-06 - 22-45 AS Roma 3 - 0 Bologna/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 12:04",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 04:17",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 11:51",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 16:51",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 18:12",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 19:31",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 25:11",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 31:31",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 38:50",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 39:06",
+            "label": "substitution-in",
+            "team": "home"
+        }
+    ],
+    "gameAwayTeam": "Bologna",
+    "gameDate": "06/11/2016 - 22:45",
+    "gameHomeTeam": "AS Roma",
+    "gameScore": "3 - 0"
+}

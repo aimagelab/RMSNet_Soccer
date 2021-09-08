@@ -1,0 +1,95 @@
+{
+    "UrlLocal": "spain_laliga/2016-2017/2016-11-06 - 14-00 Real Madrid 3 - 0 Leganes/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 07:21",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 16:37",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 37:42",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 39:42",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 39:43",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 41:32",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 45:21",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 09:34",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 15:48",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 16:06",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 22:38",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 22:53",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 30:56",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 36:08",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 36:19",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 36:58",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 45:42",
+            "label": "y-card",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Leganes",
+    "gameDate": "06/11/2016 - 14:00",
+    "gameHomeTeam": "Real Madrid",
+    "gameScore": "3 - 0"
+}

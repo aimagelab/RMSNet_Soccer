@@ -1,0 +1,80 @@
+{
+    "UrlLocal": "spain_laliga/2016-2017/2016-11-19 - 22-45 Atl. Madrid 0 - 3 Real Madrid/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 22:17",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 25:26",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 16:03",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 16:06",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 17:26",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 17:28",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 25:03",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 25:37",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 31:22",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 32:58",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 33:53",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 37:55",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 38:16",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 40:41",
+            "label": "substitution-in",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Real Madrid",
+    "gameDate": "19/11/2016 - 22:45",
+    "gameHomeTeam": "Atl. Madrid",
+    "gameScore": "0 - 3"
+}

@@ -1,0 +1,60 @@
+{
+    "UrlLocal": "france_ligue-1/2016-2017/2017-04-14 - 21-45 Angers 0 - 2 Paris SG/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 11:16",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 11:25",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 27:32",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 12:48",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 23:22",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 31:00",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 32:00",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 37:00",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 39:00",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "substitution-in",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Paris SG",
+    "gameDate": "14/04/2017 - 21:45",
+    "gameHomeTeam": "Angers",
+    "gameScore": "0 - 2"
+}

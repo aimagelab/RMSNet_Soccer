@@ -1,0 +1,90 @@
+{
+    "UrlLocal": "europe_uefa-champions-league/2014-2015/2014-11-04 - 22-45 Arsenal 3 - 3 Anderlecht/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 24:23",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 28:02",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 00:00",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 08:38",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 12:35",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 15:12",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 16:04",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 16:15",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 26:27",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 27:03",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 35:58",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 36:21",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 41:41",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 43:20",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 44:26",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 47:30",
+            "label": "y-card",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Anderlecht",
+    "gameDate": "04/11/2014 - 22:45",
+    "gameHomeTeam": "Arsenal",
+    "gameScore": "3 - 3"
+}

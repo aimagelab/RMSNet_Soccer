@@ -1,0 +1,70 @@
+{
+    "UrlLocal": "europe_uefa-champions-league/2015-2016/2015-12-09 - 22-45 D. Zagreb 0 - 2 Bayern Munich/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 30:13",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 00:00",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 00:00",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 15:10",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 15:50",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 16:35",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 18:11",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 27:40",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 28:10",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 34:41",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 40:47",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 41:41",
+            "label": "penalty-missed",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Bayern Munich",
+    "gameDate": "09/12/2015 - 22:45",
+    "gameHomeTeam": "D. Zagreb",
+    "gameScore": "0 - 2"
+}

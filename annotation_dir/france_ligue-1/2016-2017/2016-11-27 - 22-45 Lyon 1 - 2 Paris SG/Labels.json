@@ -1,0 +1,90 @@
+{
+    "UrlLocal": "france_ligue-1/2016-2017/2016-11-27 - 22-45 Lyon 1 - 2 Paris SG/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 18:18",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 29:09",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 42:48",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 46:12",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 00:00",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 00:00",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 02:41",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 19:34",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 29:42",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 34:56",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 35:46",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 37:09",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 39:43",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 40:08",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 43:41",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 46:55",
+            "label": "substitution-in",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Paris SG",
+    "gameDate": "27/11/2016 - 22:45",
+    "gameHomeTeam": "Lyon",
+    "gameScore": "1 - 2"
+}

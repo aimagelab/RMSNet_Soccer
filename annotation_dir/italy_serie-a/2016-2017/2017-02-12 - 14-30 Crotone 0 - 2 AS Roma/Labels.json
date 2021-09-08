@@ -1,0 +1,55 @@
+{
+    "UrlLocal": "italy_serie-a/2016-2017/2017-02-12 - 14-30 Crotone 0 - 2 AS Roma/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 17:00",
+            "label": "penalty-missed",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 39:07",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 09:24",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 30:21",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 31:23",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 34:33",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 35:04",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 42:16",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 45:12",
+            "label": "substitution-in",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "AS Roma",
+    "gameDate": "12/02/2017 - 14:30",
+    "gameHomeTeam": "Crotone",
+    "gameScore": "0 - 2"
+}

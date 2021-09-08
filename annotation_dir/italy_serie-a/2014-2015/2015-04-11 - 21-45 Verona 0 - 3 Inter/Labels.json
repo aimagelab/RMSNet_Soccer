@@ -1,0 +1,90 @@
+{
+    "UrlLocal": "italy_serie-a/2014-2015/2015-04-11 - 21-45 Verona 0 - 3 Inter/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 10:17",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 17:33",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 35:43",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 37:04",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 39:13",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 02:52",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 10:37",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 26:55",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 29:45",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 30:43",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 31:31",
+            "label": "penalty-missed",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 34:19",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 34:51",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 35:05",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 42:47",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 46:24",
+            "label": "soccer-ball-own",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Inter",
+    "gameDate": "11/04/2015 - 21:45",
+    "gameHomeTeam": "Verona",
+    "gameScore": "0 - 3"
+}

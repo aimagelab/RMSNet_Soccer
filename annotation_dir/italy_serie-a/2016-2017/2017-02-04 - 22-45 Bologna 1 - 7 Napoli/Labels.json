@@ -1,0 +1,120 @@
+{
+    "UrlLocal": "italy_serie-a/2016-2017/2017-02-04 - 22-45 Bologna 1 - 7 Napoli/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 03:49",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 05:36",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 10:07",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 19:38",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 24:12",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 26:00",
+            "label": "penalty-missed",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 25:38",
+            "label": "r-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 31:07",
+            "label": "r-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 32:43",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "1 - 35:25",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 42:34",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 00:00",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 15:38",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 16:29",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 22:04",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 24:40",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 27:34",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 28:15",
+            "label": "soccer-ball",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 29:36",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 34:10",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 34:21",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 44:10",
+            "label": "soccer-ball",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Napoli",
+    "gameDate": "04/02/2017 - 22:45",
+    "gameHomeTeam": "Bologna",
+    "gameScore": "1 - 7"
+}

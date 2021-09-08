@@ -1,0 +1,65 @@
+{
+    "UrlLocal": "spain_laliga/2016-2017/2016-10-29 - 21-45 Barcelona 1 - 0 Granada CF/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 10:06",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 02:56",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 14:19",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 25:43",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 26:11",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 27:05",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 30:58",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 33:22",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 37:49",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 41:18",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 41:19",
+            "label": "y-card",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Granada CF",
+    "gameDate": "29/10/2016 - 21:45",
+    "gameHomeTeam": "Barcelona",
+    "gameScore": "1 - 0"
+}

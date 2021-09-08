@@ -1,0 +1,70 @@
+{
+    "UrlLocal": "italy_serie-a/2016-2017/2016-09-21 - 21-45 Genoa 0 - 0 Napoli/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 30:45",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "1 - 31:42",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 06:06",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 07:17",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 22:00",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 27:14",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 29:22",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 31:12",
+            "label": "y-card",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 32:04",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 33:42",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 36:36",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 41:59",
+            "label": "substitution-in",
+            "team": "home"
+        }
+    ],
+    "gameAwayTeam": "Napoli",
+    "gameDate": "21/09/2016 - 21:45",
+    "gameHomeTeam": "Genoa",
+    "gameScore": "0 - 0"
+}

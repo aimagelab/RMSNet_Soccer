@@ -1,0 +1,55 @@
+{
+    "UrlLocal": "italy_serie-a/2016-2017/2017-01-08 - 20-00 AC Milan 1 - 0 Cagliari/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 26:17",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 19:01",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 27:28",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 32:19",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 33:50",
+            "label": "substitution-in",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 42:14",
+            "label": "soccer-ball",
+            "team": "home"
+        },
+        {
+            "gameTime": "2 - 43:54",
+            "label": "y-card",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 46:21",
+            "label": "substitution-in",
+            "team": "away"
+        },
+        {
+            "gameTime": "2 - 48:20",
+            "label": "r-card",
+            "team": "away"
+        }
+    ],
+    "gameAwayTeam": "Cagliari",
+    "gameDate": "08/01/2017 - 20:00",
+    "gameHomeTeam": "AC Milan",
+    "gameScore": "1 - 0"
+}
